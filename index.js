@@ -62,14 +62,6 @@ let questions = [
         name: "scriptjs"
     },{
         type: "input",
-        message: "Please state provide a screenshot (2 of 3).",
-        name: "fileGnerator"
-    },{
-        type: "input",
-        message: "Please state provide a screenshot (3 of 3).",
-        name: "ReadMe"
-    },{
-        type: "input",
         message: "Please supply two references (1/2).",
         name: "ref1"
     },{

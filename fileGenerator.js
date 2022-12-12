@@ -11,7 +11,7 @@ function fileGenerator(response) {
     * [Future Project](#Future-Project)
     
     # Repository Description
-    ###### [Back to Table of Contents](#Table-of-Contents)
+
     ${response.description}
     
     
@@ -36,12 +36,12 @@ function fileGenerator(response) {
         14. THEN I am taken to the corresponding section of the README
     
     ### Contribution Guidelines
-    ###### [Back to Table of Contents](#Table-of-Contents)
+
     ${response.contribute}
     
     
     ## Test Instructions
-    ###### [Back to Table of Contents](#Table-of-Contents)
+    
     1.  ${response.test}
     2.  ${response.test2}
     3.  ${response.test3}
@@ -53,22 +53,18 @@ function fileGenerator(response) {
     
     
     ### Screenshots (Building this application)
-    ###### [Back to Table of Contents](#Table-of-Contents)
+
     #### Demo I createad ![script.js](${response.scriptjs})
-    
-    #### Demo I createad ![fileGenerator.js](${response.fileGnerator})
-    
-    #### Demo I createad ![ReadMe.md](${response.ReadMe})
     
     
     ## References
-    ###### [Back to Table of Contents](#Table-of-Contents)
+
     1.  ${response.ref1}
     
     2.  ${response.ref2}
     
     ## Repositiory End-Goal Criterea
-    ###### [Back to Table of Contents](#Table-of-Contents)
+  
     ${response.endgoal}
     
     ## License
