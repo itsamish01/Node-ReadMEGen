@@ -7,11 +7,10 @@
     * [Installation Instructions](#Install)
     * [Usage Information](#Usage)
     *[References](#Ref)
-    * [Repositiory End-Goal Criterea](#Criterea)
-    * [Future Project](#Future-Project)
+    * [Repositiory End-Goal Criterea](#Criterea
     
     # Repository Description
-    ###### [Back to Table of Contents](#Table-of-Contents)
+  
     This repo allows users to create a quick and easy read me using node.
     
     
@@ -36,12 +35,12 @@
         14. THEN I am taken to the corresponding section of the README
     
     ### Contribution Guidelines
-    ###### [Back to Table of Contents](#Table-of-Contents)
+
     This is a public repo so anyone can view it.
     
     
     ## Test Instructions
-    ###### [Back to Table of Contents](#Table-of-Contents)
+
     1.  Ensuring the user that the application requires dependacies such as npm instal inquirer.
     2.  utilizing gitignore so that it isnt uploaded to github or tracked.
     3.  running node multiple times
@@ -54,21 +53,18 @@
     
     ### Screenshots (Building this application)
     ###### [Back to Table of Contents](#Table-of-Contents)
+    
     #### Demo I createad ![script.js]()
-    
-    #### Demo I createad ![fileGenerator.js]()
-    
-    #### Demo I createad ![ReadMe.md]()
-    
+   
+    <img width="645" alt="Screen Shot 2022-12-12 at 5 47 37 PM" src="https://user-images.githubusercontent.com/114682284/207184060-e9b56784-ec57-4be7-9e5f-4609a9df4620.png">
+
     
     ## References
-    ###### [Back to Table of Contents](#Table-of-Contents)
-    1.  NpmJS
-    
-    2.  nothing
+  
+    1.  https://www.npmjs.com/
     
     ## Repositiory End-Goal Criterea
-    ###### [Back to Table of Contents](#Table-of-Contents)
+   
     End goal for this is to showcase my class and future developers that you are able to navigate creating a read me through node
     
     ## License
