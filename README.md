@@ -1,6 +1,7 @@
 # Node Read Me Generator
-    ##### undefined[itsamish01](https://github.com/itsamish01?tab=repositorieshttps://github.com/itsamish01?tab=repositories) [Email Me](itsamish02@gmail.com) 
-    MIT All material must be cited or credited, when using material (free to use).
+  
+##### undefined[itsamish01](https://github.com/itsamish01?tab=repositorieshttps://github.com/itsamish01?tab=repositories) [Email Me](itsamish02@gmail.com) 
+   
     
 ## Table of Contents
     * [Repository Description](#Repository-Description)
