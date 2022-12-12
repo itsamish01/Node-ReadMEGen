@@ -55,8 +55,12 @@
 ## Screenshots (Building this application)
  <img width="645" alt="Screen Shot 2022-12-12 at 5 47 37 PM" src="https://user-images.githubusercontent.com/114682284/207184555-cc7c10c5-2158-44a4-9e89-419e6b35a8cf.png">
 
+<img width="517" alt="Screen Shot 2022-12-12 at 5 53 06 PM" src="https://user-images.githubusercontent.com/114682284/207184650-247d72e4-7306-470f-95f0-73f7c77b0d9c.png">
 
-    
+
+<img width="593" alt="Screen Shot 2022-12-12 at 5 53 16 PM" src="https://user-images.githubusercontent.com/114682284/207184714-364a3d16-d5a9-4cde-a42b-45b416c6db30.png">
+
+   
     
  ## References
   
